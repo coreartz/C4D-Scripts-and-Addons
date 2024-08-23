@@ -1,0 +1,14 @@
+STRINGTABLE OSnow {
+
+    OSnow                   "Snow Generator";
+
+    SNOW_THICKNESS          "Thickness";
+    SNOW_VIEWPORT           "Viewport";
+    SNOW_RENDER             "Render";
+
+    SNOW_POINTS             "Points";
+    SNOW_POINT_SCALE        "Point scale";
+    SNOW_ANGLE              "Angle";
+    SNOW_SEED               "SEED";
+
+}
