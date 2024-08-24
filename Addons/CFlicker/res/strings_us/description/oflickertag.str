@@ -1,0 +1,10 @@
+STRINGTABLE OFlickerTag
+{
+	OFlickerTag             "CFlicker";
+    CLIGHT_STRENGTH         "Light Strength";
+    CLIGHT_SEED             "Seed";
+    CFLICKER_LIGHT          "Light Flicker Strength";
+    CFLICKER_PROB           "Flicker Probability";
+    CFLICKER_LENGTH         "Flicker Length";
+    CFLICKER_LENGTH_VAR     "Flicker Length Variation";
+}
